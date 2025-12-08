@@ -1,5 +1,5 @@
 #  About Me:
-Je suis une étudiante à Epitech qui aime transformer des idées en modèles et des concepts en algorithmes.<br>J’explore la logique cachée derrière les systèmes, qu’ils soient naturels ou numériques, et j’aime donner forme à ce que l’on ne voit pas.<br><br>En ce moment, je travaille sur un projet de modélisation de niches écologiques et de biomes, où je combine algorithmique, simulation et sciences du vivant pour créer des environnements cohérents, dynamiques et immersifs.<br><br>Entre modélisation, curiosité scientifique et passion pour la compréhension du monde, je cherche toujours l’élégance d’un modèle qui fonctionne et la poésie d’un système bien conçu.
+Je suis une étudiante à Epitech qui aime transformer des idées en modèles et des concepts en algorithmes.<br>J’explore la logique cachée derrière les systèmes, qu’ils soient naturels ou numériques, et j’aime donner forme à ce que l’on ne voit pas.<br><br>En ce moment, je travaille sur un projet de modélisation de niches écologiques et de biomes, où je combine algorithmique, simulation et sciences du vivant pour créer des environnements cohérents, dynamiques et immersifs.<br>
 
 
 ## Socials:
